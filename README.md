@@ -15,7 +15,7 @@ Usuarios que:
   + Buscan aprender habilidades distintas
   + Buscan enseñar habilidades
   + Quieren poner en practica lo que ya saben
-  + Tienen tiempo libre para su desarrollo personal
+  + Tienen tiempo libre para su desarrollo personal y profesional
   + Quieren socializar y buscan hacerlo por un medio que los ayude a cultivarse
 
 **Benefits**
